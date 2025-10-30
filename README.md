@@ -10,5 +10,3 @@ O sistema funciona como um **assistente residencial por voz**, permitindo que o 
 Além disso, o projeto conta com um **sensor de presença** (PIR) que atua como **sistema de alarme** quando o ambiente é deixado em modo de segurança.
 
 🧠 Sistema programado em Python, rodando em um Raspberry Pi
-
----
