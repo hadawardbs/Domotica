@@ -1,0 +1,13 @@
+===================================
+	PlayList de Músicas
+===================================
+
+*Diga o número correspondente a música que deseja ouvir
+
+1) System Of A Down - B.Y.O.B.
+
+2) Queen - Another One Bites the Dust
+
+3) Pink Floyd - Another Brick in The Wall
+
+4) Eurythmics - Sweet Dreams

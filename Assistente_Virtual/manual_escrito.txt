@@ -1,0 +1,9 @@
+==================================
+	MANUAL DE COMANDOS
+==================================
+
+Manual -> Exibe o manual de comandos escrito ou por voz correspondente a cada menu.
+
+Tempo -> Comando utilizado para informar a hora e a data atual do sistema.
+
+Casa -> Inicia o menu casa utilizado para controlar objetos e cômodos da casa.

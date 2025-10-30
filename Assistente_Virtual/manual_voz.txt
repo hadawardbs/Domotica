@@ -1,0 +1,1 @@
+Manual de comandos... Tempo, Comando utilizado para informar a hora e a data atual do sistema.... Casa, Inicia o menu casa utilizado para controlar objetos e cômodos da casa.
